@@ -1,0 +1,17 @@
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.site-title {
+    width: 120px;
+    line-height: 1px;
+    padding: 10px 0;
+}
+
+#header ul {
+    display: flex;
+    padding: 10px 0;
+}
